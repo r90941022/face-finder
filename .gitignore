@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+*.egg-info/
+dist/
+build/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Project specific
+output/
+cropped_faces*/
+clustered_faces/
+final_cropped_faces*/
+*.mp4
+*.mov
+
+# Model cache
+.insightface/
+
+# Logs
+*.log
