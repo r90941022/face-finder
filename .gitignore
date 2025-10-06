@@ -30,6 +30,12 @@ clustered_faces/
 final_cropped_faces*/
 *.mp4
 *.mov
+conversation_archive/
+_raw_*/
+crop*/
+yc/
+yc_crop/
+tbd/
 
 # Model cache
 .insightface/
